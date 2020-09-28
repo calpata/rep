@@ -1,9 +1,9 @@
 {
-  "short_name": "BetaPage",
-  "name": "BetaPage",
+  "short_name": "AnimaCaste",
+  "name": "AnimaCaste",
   "theme_color": "#4A90E2",
   "background_color": "#F7F8F9",
-  "display": "standalone",
+  "display": "fullscreen",
   "icons": [
     {
       "src": "assets/icons/launcher-icon-1x.png",
