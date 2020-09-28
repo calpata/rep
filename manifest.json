@@ -6,25 +6,25 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "assets/icons/launcher-icon-1x.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "assets/icons/launcher-icon-2x.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "assets/icons/launcher-icon-3x.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "assets/icons/launcher-icon-4x.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "start_url": "/?utm_source=launcher"
+  "start_url": "/?m=1"
 }
